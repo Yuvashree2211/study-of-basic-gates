@@ -1,3 +1,7 @@
+NAME: YUVASHREE R
+
+REG NO:212224040378
+
 ### study-of-basic-gates
 
 **AIM:** 
@@ -64,12 +68,7 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by:YUVASHREE R
- 
- RegisterNumber: 212224040378
- ```
+```
 module sample(a,b,yand,yor,ynot,ynor,yxor,ynand,yxnor);
 input a,b;
 output yand,yor,ynot,ynor,yxor,ynand,yxnor;
@@ -81,6 +80,7 @@ nor(ynor,a,b);
 xor(yxor,a,b);
 xnor(yxnor,a,b);
 endmodule
+
 ```
  
 **Logic symbol & Truthtable**:
