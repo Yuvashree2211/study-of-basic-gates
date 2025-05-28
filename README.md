@@ -2,7 +2,7 @@ NAME: YUVASHREE R
 
 REG NO:212224040378
 
-### study-of-basic-gates
+### study of basic gates
 
 **AIM:** 
 
